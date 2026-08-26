@@ -1,32 +1,26 @@
 # ArmaStatsBot Examples & Screenshots
 
-These screenshots demonstrate how ArmaStatsBot uses the Server Members Intent and how Discord IDs are linked to Arma player profiles.
+These screenshots demonstrate how ArmaStatsBot uses the Server Members Intent and how Discord IDs are linked to Arma player profiles. No private data is shown.
 
 ---
 
 ## 1. /link Command
 Shows a user linking their Discord ID to their Arma UID.
 
-![Link Command](screenshots/link.png)
+![Link Command](Screenshot%202026-08-26%20193331.png)
 
 ---
 
 ## 2. /stats Command
-Shows the bot responding to a slash command.
+Shows the bot responding to a slash command and displaying player statistics.
 
-![Stats Command](screenshots/stats.png)
-
----
-
-## 3. Link Confirmation
-Shows the bot confirming the DiscordID → ArmaUID link without exposing private data.
-
-![Link Confirmation](Screenshot 2026-08-26 193310.png)
+![Stats Command](Screenshot%202026-08-26%20193310.png)
 
 ---
 
-## 4. Bot Responding in a Server
-Shows the bot responding normally inside Discord.
+## 3. /leaderboard Command
+Shows the bot generating a global leaderboard based on gameplay data.
 
-![Bot Response](screenshots/response.png)
+![Leaderboard](Screenshot%202026-08-26%20193401.png)
 
+---
