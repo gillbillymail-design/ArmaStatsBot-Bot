@@ -21,7 +21,7 @@ Shows the bot responding to a slash command.
 ## 3. Link Confirmation
 Shows the bot confirming the DiscordID → ArmaUID link without exposing private data.
 
-![Link Confirmation](screenshots/confirm.png)
+![Link Confirmation](Screenshot 2026-08-26 193310.png)
 
 ---
 
