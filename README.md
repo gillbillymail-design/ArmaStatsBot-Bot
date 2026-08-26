@@ -1,0 +1,2 @@
+# ArmaStatsBot-Bot
+Privacy Policy 
