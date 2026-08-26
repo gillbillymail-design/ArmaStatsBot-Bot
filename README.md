@@ -2,7 +2,7 @@
 ArmaStatsBot Privacy Policy
 
 Last Updated: August 2026
-Owner: Zachary (Developer of ArmaStatsBot)
+Owner: GillBillyzz (Developer of ArmaStatsBot)
 
 1. Introduction
 ArmaStatsBot is a Discord bot that connects Arma Reforger game servers to Discord.
