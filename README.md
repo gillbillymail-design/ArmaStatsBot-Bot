@@ -1,6 +1,4 @@
 # ArmaStatsBot-Bot
-Privacy Policy 
-
 ArmaStatsBot Privacy Policy
 
 Last Updated: August 2026
